@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "releve.dtd">
+<releve RIB="011112222333344445555666">
+    <dateReleve>2025-11-16</dateReleve>
+    <solde>12000</solde>
+    <operations dateDebut="2025-10-01" dateFin="2025-10-30">
+        <operation type="CREDIT" date="2025-10-01" montant="8000" description="Vers Espèce"/>
+        <operation type="DEBIT" date="2025-10-09" montant="1400" description="Chèque Guichet"/>
+        <operation type="CREDIT" date="2025-10-15" montant="5000" description="Prélèvement Assurence"/>
+        <operation type="DEBIT" date="2025-10-19" montant="2500" description="Virement .."/>
+        <operation type="DEBIT" date="2025-10-22" montant="6000" description="Chèque Guichet"/>
+        <operation type="CREDIT" date="2025-10-27" montant="3500" description="Vers Espèce"/>
+    </operations>
+</releve>
+
